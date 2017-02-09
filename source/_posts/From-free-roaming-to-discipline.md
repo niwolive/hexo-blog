@@ -8,23 +8,32 @@ To the students in ISTC, Yerevan, Armenia, and people from the [Iterate hackersp
 
 2016 was the year I caught my bearings. Not specifically through waters, though they were definitely involved when I paddled down the Danube on my eastward journey overland from France. 
 
-Early that year, my ambition was to learn to work as a developer while travelling. The issue was that though it had been about 3 years I got my MSc in Software Engineering, my github activity looked like this:
+Early that year, my ambition was to learn to work as a developer while travelling. It had been about 3 years I got my MSc in Software Engineering, my github activity looked like this:
 
 ![](_image of blank github activity_)
 
-And to be honest, I was having an awful time at programming. Most of all code I was writing was a webshop for [Tealure](http://tealure.com), back then Ruby on Rails + AngularJS. We had just taken an intern to assist me in the works, but clearly, I was lacking a fair amount of capacity and confidence to stretch to mentoring while my partner and founder Ernestas Klevas was dreaming big on the next steps for having our tea reach more hands and help more people in Nepal.
+And to be honest, I was having an awful time at programming. Most of all code I was writing was a webshop for [Tealure](http://tealure.com), back then on Ruby on Rails + AngularJS. We had just taken an intern to assist me in the works, but clearly, I was lacking a fair amount of capacity and confidence to stretch to mentoring while my partner and founder Ernestas Klevas was dreaming big on the next steps for having our tea reach more hands and [help more people in Nepal]().
 
-In parallel to this I was also investing a fair amount of time building my own freelance/consultant venture from the ground up. I was believing that, with a bit of commitment and consistency I could totally work 10-15 hours a week on some hourly-contracts (which I would surely find on the way...), and that it would cover my monthly expenses while paying back my student loan...
+In parallel to this I was also investing a fair amount of time building my own freelance/consultant venture from the ground up. I was believing that, with a bit of commitment and consistency I could totally work 10-15 hours a week on some hourly-contracts (which I would surely find on the way), and that it would cover my monthly expenses while paying back my student loan...
 
 I was so *naively* confident that I already planned holidays with my peers early in the journey, and as I was running late to arrive in time to meet them in Blugaria, I decided not to work until the end of my Kayak trip from Budapest, Hungary to Belgrade, Serbia. 
 
-Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. First off, when I was still paddling towards Belgrade, people were impressively prone to smile/nod/wave at me, or even shout out loud for company in their summer batch (which wouldn't have passed any EU regulations for sure). Belgrade taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects (I needed to live it to believe that some people *do* shake you up in the middle of the night - even if all they can get from you is 2 euros and a 4-years-old pair of shoes)... 
+Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. First off, when I was still paddling towards Belgrade, fishermen were impressively prone to smile/nod/wave at me, and people would often shout out for company in their summer shacks. On another note, Belgrade taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects (I needed to live it to believe that some people *do* shake you up in the middle of the night - even if all they can get from you is 2 euros and a 4-years-old pair of shoes)... 
 
 It's at about this time I realized I would need more stability and predictability if I was to make a living while travelling. Still, my time in Serbia was reaching to an end, and in spite of the many hours spent at the gaming club (the most cost-effective office I could find), my time went mostly into Tealure and there was still no paid gig at the horizon.
 
-It is at this stage that it became obvious that I would not be able to be productive unless I had a reliable place to work from, and that this should not change too often.
+At this stage that it became obvious that I would not be able to be productive unless I had a reliable place to work from, and that this should not change too often.
 
 Once parted from my peers after some epic hiking and cycling in Bulgaria and Turkey, I went towards Armenia as fast as affordable buses and hitch-hiking would allow. My idea was to settle down for a few week doing freelance work in a place where food and accommodation would be cost-effective.
+
+---
+
+Armenia was all I could have wished for, and more. When searched for « Hackerspace Yerevan » on the Web, no obvious result appeared in the first place, except a page on someone's personal site saying that they were about to create one and were looking for a place and people to join. That person was Edgar. After he offered me to crash at his place a couple of nights, things quickly became very exciting. I remember Edgar asking me what I was doing professionally and me answering "Web development". Then he asked something like "Do you do it for real? Professionally?" and me answering a bit defensively « yeah, of course, I do it for like 10 years now ».
+He had just visited the space that had proposed to host the hackerspace, and it was nothing like the grungy basement for nerds that I had in mind. The IBM Innovative Solution & Technologies Center (ISTC) was promising to be the go-to place for co-working and entrepreuneurs in Yerevan, and they would provide latest hardware and more, just to have us in their space. How cool!
+
+After a few days in the space in the company of Edgar, I understood why.
+
+[](_one of our first open workshop night_)!
 
 
 ---
@@ -64,6 +73,8 @@ france
 Fabulous
 Soft Skills
 tour
+Taipei / Taiwan -> commitment to staying here
+commitment with this blog: invitation to subscribe to the newsletter
 
 
 
