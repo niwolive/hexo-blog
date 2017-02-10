@@ -4,7 +4,7 @@ date: 2017-02-06 11:30:25
 tags: #lifestories
 ---
 
-To the students in ISTC, Yerevan, Armenia, and people from the [Iterate hackerspace](). To Edgar, our mentor. And to aspiring sailor-developers pondering on how to set sail.
+*To the students in ISTC, Yerevan, Armenia, and people from the [Iterate hackerspace](). To Edgar, our mentor. And to aspiring sailor-developers pondering on how to set sail*.
 
 2016 was the year I caught my bearings. Not specifically through waters, though they were definitely involved when I paddled down the Danube on my eastward journey overland from France. 
 
@@ -18,20 +18,26 @@ In parallel to this I was also investing a fair amount of time building my own f
 
 I was so *naively* confident that I already planned holidays with my peers early in the journey, and as I was running late to arrive in time to meet them in Blugaria, I decided not to work until the end of my Kayak trip from Budapest, Hungary to Belgrade, Serbia. 
 
-Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. First off, when I was still paddling towards Belgrade, fishermen were impressively prone to smile/nod/wave at me, and people would often shout out for company in their summer shacks. On another note, Belgrade taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects (I needed to live it to believe that some people *do* shake you up in the middle of the night - even if all they can get from you is 2 euros and a 4-years-old pair of shoes)... 
+Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. First off, when I was still paddling towards Belgrade, fishermen were impressively prone to smile/nod/wave at me, and people would often shout out for company in their summer shacks. On another note, Belgrade taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects - some people *do* shake you up in the middle of the night, even if all they can get from you is 2 euros and a 4-years-old pair of shoes... 
 
-It's at about this time I realized I would need more stability and predictability if I was to make a living while travelling. Still, my time in Serbia was reaching to an end, and in spite of the many hours spent at the gaming club (the most cost-effective office I could find), my time went mostly into Tealure and there was still no paid gig at the horizon.
+It's at about this time I realized I would need more stability and predictability if I was to make a living while travelling. Still, my time in Serbia was reaching to an end, and in spite of the many hours spent at the gaming club (the most cost-effective office I could find), my time went mostly into Tealure and there was still no paid gig on the horizon.
 
-At this stage that it became obvious that I would not be able to be productive unless I had a reliable place to work from, and that this should not change too often.
+At this stage it became obvious that I would not be able to be productive unless I had a reliable place to work from, and that this should not change too often.
 
-Once parted from my peers after some epic hiking and cycling in Bulgaria and Turkey, I went towards Armenia as fast as affordable buses and hitch-hiking would allow. My idea was to settle down for a few week doing freelance work in a place where food and accommodation would be cost-effective.
+After some epic hiking and cycling in Bulgaria and Turkey with my peers, we parted, and I went towards Armenia as fast as affordable buses and hitch-hiking would allow. My idea was to settle down for a few week doing freelance work in a place where food and accommodation would be cost-effective.
 
 ---
 
-Armenia was all I could have wished for, and more. When searched for « Hackerspace Yerevan » on the Web, no obvious result appeared in the first place, except a page on someone's personal site saying that they were about to create one and were looking for a place and people to join. That person was Edgar. After he offered me to crash at his place a couple of nights, things quickly became very exciting. I remember Edgar asking me what I was doing professionally and me answering "Web development". Then he asked something like "Do you do it for real? Professionally?" and me answering a bit defensively « yeah, of course, I do it for like 10 years now ».
+In many ways, Armenia was all I could have wished for, and more. When searched for « Hackerspace Yerevan » on the Web, no obvious result appeared in the first place, except a page on someone's personal site saying that they were about to create one and were looking for a place and people to join. That person was Edgar Aroutiounian. After he offered me to crash at his place a couple of nights, things quickly became very exciting. I remember Edgar asking me what work I was doing and me answering "Web development". Then he asked something like "Do you do it for real? Professionally?" and me answering a bit defensively « yeah, of course, I do it for like 10 years now ».
 He had just visited the space that had proposed to host the hackerspace, and it was nothing like the grungy basement for nerds that I had in mind. The IBM Innovative Solution & Technologies Center (ISTC) was promising to be the go-to place for co-working and entrepreuneurs in Yerevan, and they would provide latest hardware and more, just to have us in their space. How cool!
 
-After a few days in the space in the company of Edgar, I understood why.
+Edgar amazed me in many ways. I was mostly struck by his confidence and « let's get started » attitude as I use to be asking myself many questions before doing anything at this time. He lead open workshops from day one, teaching the skills the youth of armenia needs to become professional programmers.
+
+Every day more people where coming to learn Javascript, Linux, Computer Science Theory and more. In less that a week we had over twenty people who showed up, and even better, the same people kept coming back. I found the learning pace that Edgar was taking was incredibly fast, and I was amazed to see that some of the most novice of our participants would try to get it as hard as they could. This was specifically appropriate in a context where everyone is seen as a contributer rather than a teacher or student. Also, when asked a question, Edgar would often look aroundthe room and find some other contributor that was just one step ahead and sollicitate that they'd help the person solve their problem. In all instances, he'd never give the answer to a problem, and rather point the learner towards the direction that would help them solve the issue by themselves.
+
+---
+
+This would sometimes frustrate them
 
 [](_one of our first open workshop night_)!
 
