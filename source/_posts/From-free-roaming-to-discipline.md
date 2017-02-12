@@ -8,43 +8,41 @@ tags: #lifestories
 
 2016 was the year I caught my bearings. Not specifically through waters, though they were definitely involved when I paddled down the Danube on my eastward journey overland from France. 
 
-Early that year, my ambition was to learn to work as a developer while travelling. It had been about 3 years I got my MSc in Software Engineering, my github activity looked like this:
-
-![](_image of blank github activity_)
-
-And to be honest, I was having an awful time at programming. Most of all code I was writing was a webshop for [Tealure](http://tealure.com), back then on Ruby on Rails + AngularJS. We had just taken an intern to assist me in the works, but clearly, I was lacking a fair amount of capacity and confidence to stretch to mentoring while my partner and founder Ernestas Klevas was dreaming big on the next steps for having our tea reach more hands and [help more people in Nepal]().
+Early that year, my ambition was to learn to work as a developer while travelling. It had been about 3 years I got my MSc in Software Engineering, yet the record of my open-source activity was near blank and to be honest, I was having an awful time at programming. Most of all code I was writing was a webshop for [Tealure](http://tealure.com), back then on Ruby on Rails + AngularJS. We had just taken an intern to assist me in the works, but clearly, I was lacking a fair amount of capacity and confidence to stretch to mentoring while my partner and founder Ernestas Klevas was dreaming big on the next steps for having our tea reach more hands and help more people grow crops in Nepal with our cooperative.
 
 In parallel to this I was also investing a fair amount of time building my own freelance/consultant venture from the ground up. I was believing that, with a bit of commitment and consistency I could totally work 10-15 hours a week on some hourly-contracts (which I would surely find on the way), and that it would cover my monthly expenses while paying back my student loan...
 
-I was so *naively* confident that I already planned holidays with my peers early in the journey, and as I was running late to arrive in time to meet them in Blugaria, I decided not to work until the end of my Kayak trip from Budapest, Hungary to Belgrade, Serbia. 
+I was so *naively* confident that I already planned holidays with my peers early in the journey, and as I was running late to arrive in time to meet them in Blugaria, I decided not to work until the end of my Kayak trip from Budapest to Belgrade. 
 
-Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. First off, when I was still paddling towards Belgrade, fishermen were impressively prone to smile/nod/wave at me, and people would often shout out for company in their summer shacks. On another note, Belgrade taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects - some people *do* shake you up in the middle of the night, even if all they can get from you is 2 euros and a 4-years-old pair of shoes... 
+Serbia struck me in many ways. It was the first country I visited that had a strong contrast with EU countries. When I was still paddling towards Belgrade, fishermen were impressively prone to smile at me, and people would often shout out for a visit at their summer shacks. Belgrade also taught me that living like a vagabond (sleeping in parks, moving around with my valuables, gathering free food) can indeed have undesirable side-effects - some people *do* shake you up in the middle of the night, even if all they can get from you is 2 euros and a 4-years-old pair of shoes... 
 
-It's at about this time I realized I would need more stability and predictability if I was to make a living while travelling. Still, my time in Serbia was reaching to an end, and in spite of the many hours spent at the gaming club (the most cost-effective office I could find), my time went mostly into Tealure and there was still no paid gig on the horizon.
+It's at about this time I realized I would need more stability and predictability if I was to make a living while travelling. I adopted the habit of going to the gamers club, a cheap place where I could hook up a screen to my nomad-style computer, an Odroid C2. 
+My work still went mostly for Tealure, and the time in Serbia was reaching to an end, with no paid gig on the horizon.
 
-At this stage it became obvious that I would not be able to be productive unless I had a reliable place to work from, and that this should not change too often.
-
-After some epic hiking and cycling in Bulgaria and Turkey with my peers, we parted, and I went towards Armenia as fast as affordable buses and hitch-hiking would allow. My idea was to settle down for a few week doing freelance work in a place where food and accommodation would be cost-effective.
-
----
-
-In many ways, Armenia was all I could have wished for, and more. When searched for « Hackerspace Yerevan » on the Web, no obvious result appeared in the first place, except a page on someone's personal site saying that they were about to create one and were looking for a place and people to join. That person was Edgar Aroutiounian. After he offered me to crash at his place a couple of nights, things quickly became very exciting. I remember Edgar asking me what work I was doing and me answering "Web development". Then he asked something like "Do you do it for real? Professionally?" and me answering a bit defensively « yeah, of course, I do it for like 10 years now ».
-He had just visited the space that had proposed to host the hackerspace, and it was nothing like the grungy basement for nerds that I had in mind. The IBM Innovative Solution & Technologies Center (ISTC) was promising to be the go-to place for co-working and entrepreuneurs in Yerevan, and they would provide latest hardware and more, just to have us in their space. How cool!
-
-Edgar amazed me in many ways. I was mostly struck by his confidence and « let's get started » attitude as I use to be asking myself many questions before doing anything at this time. He lead open workshops from day one, teaching the skills the youth of armenia needs to become professional programmers.
-
-Every day more people where coming to learn Javascript, Linux, Computer Science Theory and more. In less that a week we had over twenty people who showed up, and even better, the same people kept coming back. I found the learning pace that Edgar was taking was incredibly fast, and I was amazed to see that some of the most novice of our participants would try to get it as hard as they could. This was specifically appropriate in a context where everyone is seen as a contributer rather than a teacher or student. Also, when asked a question, Edgar would often look aroundthe room and find some other contributor that was just one step ahead and sollicitate that they'd help the person solve their problem. In all instances, he'd never give the answer to a problem, and rather point the learner towards the direction that would help them solve the issue by themselves.
+By then, knew I was not going to be productive unless I had a reliable place to work from, and that this should not change too often. After some epic hiking and cycling in Bulgaria and Turkey with my peers, I decided to go towards Armenia as fast as affordable buses and hitch-hiking would allow. My idea was to settle down for a few weeks do freelance work in a place where food and accommodation would be cost-effective.
 
 ---
 
-This would sometimes frustrate them
+In many ways, Armenia was all I could have wished for, and more. When searched for « Hackerspace Yerevan » on the Web, no obvious result appeared in the first place, except a page on someone's personal site saying that they were about to create one and were looking for a place and people to join. That person was Edgar Aroutiounian. After he offered me to crash at his place a couple of nights, things quickly became very exciting. I remember Edgar asking me what work I was doing and me answering "Web development". Then he asked something like « Do you do it for real? Professionally? » and I answered defensively « yeah, of course, I do it for like 10 years now ». In trurth, I started to code 10 years back, but could hardly ever make it to hone my skills with consistency from then till now.
 
-[](_one of our first open workshop night_)!
+Edgar had just visited the space that had offered to host the hackerspace, and it was nothing like the grungy basement for nerds that I had in mind. The IBM Innovative Solution & Technologies Center (ISTC) was promising to be the go-to place for co-working and entrepreuneurs in Yerevan, and they would even provide latest hardware and more. How cool!
 
+Edgar amazed me in more than one way. I was mostly struck by his confidence and « let's get started » attitude. He lead open workshops from day one, teaching the skills the youth of Armenia needs to become professional programmers.
 
----
+<figure>
+{% asset_img iterate-workshop.jpg %}
+<figcaption>Our first workshop!</figcaption>
+</figure>
 
+Every day more people where coming to learn modern Javascript, Linux, Computer Science Theory and more. In less that a week we had over thrirty people who showed up, and even better, the same people kept coming back. I found the learning pace that Edgar was taking was incredibly fast, which was specifically appropriate in a context where everyone is seen as a fellow contributor rather than a teacher or student. When asked a question, Edgar would often look around the room and find some other contributor that was just one step ahead and ask them to pair with whoever was stuck. In all instances, he'd never give the answer to a problem, and rather point the learner towards the direction that would help them solve the issue themselves. Workshops were code jams, were people chime in with one another  was often just a few simple lines on a whiteboard, like so:
 
+<figure>
+{% asset_img problem-on-whiteboard.jpg %}
+<figcaption>Challenge from Edgar for one of our review nights</figcaption>
+</figure>
+
+Though he refused giving answers as to maximize problem-solving experiences, Edgar was consistently doing his best to constantly nudge the people who struggled the most in the right direction. 
+I have experience (again) how teaching is an intrinsic part of learning, and how rewarding it is to contribute to the progress of fellow learners (which we are all meant to stay for a lifetime).
 
 Way too often I faced issues I didn't know how to solve, and it repeatedly happened than a week or more would pass by without I could find a solution.
 
