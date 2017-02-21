@@ -4,11 +4,10 @@
 
 # Site
 title: Code With Flair 
-subtitle: I improve your code by challenging you where I fall short 
 description:
 author: Nicolas Wormser
 language:
-timezone:
+timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
