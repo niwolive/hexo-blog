@@ -1,0 +1,16 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: niwolive
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+#ga: UA-65933410-1
