@@ -42,6 +42,17 @@ highlight:
   auto_detect: false
   tab_replace:
 
+markdown:
+  render:
+    html: true  
+    breaks: true 
+  anchors:
+    level: 1
+    collisionSuffix: 'v'           
+    permalink: true             
+    permalinkClass: header-anchor 
+    permalinkSymbol: '#'
+
 # Category & Tag
 default_category: uncategorized
 category_map:

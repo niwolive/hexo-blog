@@ -30,19 +30,12 @@
     h2, h3, h4, h5, h6 {
         position: relative;
         margin: 1em 0;
-        &:before {
-            content: "#";
-            color: #42b983;
+        & > .header-anchor {
             position: absolute;
             left: -0.7em;
             top: -4px;
             font-size: 1.2em;
             font-weight: bold;
-        }
-    }
-    h4, h5, h6 {
-        &:before {
-            content: "";
         }
     }
 
@@ -69,9 +62,10 @@
     }
     & > table,
     & > figure {
+      & > img {
+        margin: 0;
+      }
       & > figcaption {
-        border: thin silver solid;
-        margin: 0.5em;
         padding: 0.5em;
         text-align: center;
         font-style: italic;

@@ -8,7 +8,7 @@ tags: #lifestories
 
 
 {% blockquote %}
-**Travelling** (*noun. countable.*): Process of intentionnaly joining unfamiliar environments to further one's understanding of All.
+**Travelling** (*noun. countable.*): Process of intentionnaly integrating unfamiliar environments to further one's understanding of All.
 {% endblockquote %}
 
 That would probably be one of the few definitions I'd give to this word, depending on the context. It matches how I feel about the {% post_link From-free-roaming-to-discipline "eastward journey from France" %} that I brought to an end last month.
@@ -33,12 +33,12 @@ Every day more people where coming to learn modern Javascript, Linux, Computer S
 <figcaption>Our first workshop!</figcaption>
 </figure>
 
-A community of programmers was born, in a place of where it can have genuine social impact. And even better, this community had developed habits that supports collaboration, and help their members become independent learners.
+A community of programmers was born, in a place of where it can have genuine social impact. And even better, it had developed habits to support collaboration, and help members become independent learners.
 
 
 ## The rise of autonomous changemakers
 
-In Iterate, everyone is seen as a fellow contributor rather than a teacher or student. Each person is encouraged to contribute to any of our open-source projects, regardless of their proficiency. Workshops are code jams, were people chime in with one another to build something. It is a common pattern to see five or six people around one computer, on which something particularily exciting is happening. Review nights, as promoted by Edgar, help people check how good they become at tackling simple problems in a short amount of time. Here is an example of one he wrote a while back:
+In [Iterate](http://iteratehackerspace.com), everyone is seen as a fellow contributor rather than a teacher or student. Each person is encouraged to contribute to any of our open-source projects, regardless of their proficiency. Workshops are code jams, were people chime in with one another to build something. It is a common pattern to see five or six people around one computer, on which something particularily exciting is happening. Review nights, as promoted by Edgar, help people check how good they become at tackling simple problems in a short amount of time. Here is an example of one he wrote a while back:
 
 <figure>
 {% asset_img problem-on-whiteboard.jpg %}
